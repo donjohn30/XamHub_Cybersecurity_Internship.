@@ -1,0 +1,13 @@
+A Packet is a small segment of data transmitted over a network. It is the basic unit of data transmitted over a network. It is the basic unit of data transmission in a network and is used to 
+transmit data between devices.
+           STRUCTURE OF A PACKET
+A packet consists of two main parts:
+HEADER: The header contains control information, such source and source and destination IP addresses, port numbers, and packet sequence numbers.
+PAYLOAD: The payload contains the actual data transmitted.
+TYPES OF PACKETS
+There are several types of packets, including:
+DATA PACKETS: These packets contain actual data being transmitted.
+ACKNOWLEDGMENT PACKETS (ACKs): These packets acknowledge receipt of data packets.
+ERROR PACKETS: These packets indicate errors in transmission.
+CONTROL PACKETS: These packets control the flow of data, such as packet sequence numbers.
+6
